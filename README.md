@@ -35,4 +35,8 @@ Structured LeetCode and Data Structures &amp; Algorithms solutions for interview
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jaykamdi/leetcode-grind/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/jaykamdi/leetcode-grind/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
