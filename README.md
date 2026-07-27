@@ -38,5 +38,6 @@ Structured LeetCode and Data Structures &amp; Algorithms solutions for interview
 ## Math
 |  |
 | ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/jaykamdi/leetcode-grind/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/jaykamdi/leetcode-grind/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
